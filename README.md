@@ -14,7 +14,7 @@
 |  リスコフの置換原則(LSP:liskov substitution principle)  |  インターフェイスを受け取り、インターフェイスで処理する  |  SOLID  |
 |  インターフェイス分離の原則(ISP:interface segregation principle)  |  クライアントに必要十分なインターフェイスを用意する  |  SOLID  |
 |  依存性逆転の原則(DIP:dependency inversion principle)  |  インターフェイスを用意して外部の実装を注入する  |  SOLID  |
-|  最小知識の原則(Principle of Least Knowledge)  |  x  |  x  |
+|  最小知識の原則(Principle of Least Knowledge)  |  オブジェクトは他のオブジェクトの内部構造に依存しない、結合度は低く保つ  |  デメテルの法則  |
 |  KISS(keep it simple stupid)  |  x  |  x  |
 |  DRY(dont repeat yourself)  |  x  |  x  |
 |  YAGNI(You aren't gonna need it)  |  x  |  x  |
@@ -46,3 +46,4 @@
 - [何かのときにすっと出したい、プログラミングに関する法則・原則一覧](https://qiita.com/hirokidaichi/items/d6c473d8011bd9330e63)
 - [人名を冠したソフトウェア開発の19の法則](https://www.yamdas.org/column/technique/19laws.html)
 - [Martin Fowler's Bliki (ja)](https://bliki-ja.github.io)
+- [AggregateRoot – 集約](https://nrslib.com/aggregateroot/)
