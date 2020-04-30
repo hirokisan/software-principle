@@ -20,6 +20,7 @@
 |  KISS(keep it simple stupid)  |  単純に、簡潔に  |  x  |
 |  DRY(dont repeat yourself)  |  情報は一箇所に集める。ただし密結合は避ける。  |  x  |
 |  YAGNI(You aren't gonna need it)  |  機能は必要になるまで追加しない  |  x  |
+|  Tell, Don't Ask  |  オブジェクトに処理させる  |  x  |
 |  Worse is better  |  正しさよりも単純さを優先する  |  ニュージャージースタイル  |
 |  ブルックスの法則  |  遅れているプロジェクトへの要員追加はプロジェクトをさらに遅くする  |  キャッチアップ、コミュニケーション、タスク分解  |
 |  コンウェイの法則  |  システムは設計する組織の構造を映す  |  x  |
